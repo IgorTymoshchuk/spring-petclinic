@@ -2,7 +2,7 @@ web:
   appname: myapp
   repo: ontirex
   image: spring-petclinic
-  tag: latest
+  tag: v2
   port: 8080
 mysql:
   appname: spring-mysql
